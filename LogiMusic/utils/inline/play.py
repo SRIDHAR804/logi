@@ -57,7 +57,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 url=f"{SUPPORT_CHANNEL}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ᴄʜᴀᴛ ♡︎", url=f"{SUPPORT_GROUP}")
+                text="♡︎ ᴅᴏᴠᴇʟᴏᴘᴇʀ ♡︎", url=fhttps://t.me/king_of_izzy")
         ],
         [
             InlineKeyboardButton(
@@ -104,7 +104,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 url=f"{SUPPORT_CHANNEL}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ᴄʜᴀᴛ ♡︎", url=f"{SUPPORT_GROUP}")
+                text="♡︎ ᴅᴏᴠᴇʟᴏᴘᴇʀ ♡︎", url=f"https://t.me/king_of_izzy")
         ],
         [
             InlineKeyboardButton(
@@ -135,7 +135,7 @@ def stream_markup(_, videoid, chat_id ):
                 url=f"{SUPPORT_CHANNEL}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ᴄʜᴀᴛ ♡︎", url=f"{SUPPORT_GROUP}")
+                text="♡︎ ᴅᴏᴠᴇʟᴏᴘᴇʀ ♡︎", url=f"https://t.me/king_of_izzy")
         ],
         [
             InlineKeyboardButton(
@@ -300,8 +300,8 @@ def panel_markup_1(_, videoid, chat_id):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ʀᴇᴘᴏꜱ ♡︎",
-                url=f"https://github.com/LOGI-LAB/LogiMusic",
+                text="♡︎ 𝐓ᴇᴀᴍ 𝐓 𝐉 ♡︎",
+                url=f"https://t.me/king_of_Izzy",
             ),
         ],
         [
